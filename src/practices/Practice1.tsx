@@ -3,7 +3,7 @@ export const Practice1 = () => {
     const total = num * 1.1;
     console.log(total);
   };
-  const onClickPractice = () => calcTotalFee(1000);
+  const onClickPractice = () => calcTotalFee(2000);
   return (
     <div>
       <p>練習問題:引数の型指定</p>
